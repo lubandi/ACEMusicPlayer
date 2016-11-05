@@ -1,4 +1,4 @@
-ACEMusic Player
+ACEMusic Player -- CALLED LANTERN ALSO
 ===================
 ACEMusic is a free, powerful and elegant music player for Android. ACEMusic is based off <a href="https://github.com/psaravan/JamsMusicPlayer">JamsMusicPlayer</a>. 
 
